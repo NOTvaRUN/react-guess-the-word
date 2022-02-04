@@ -1,3 +1,6 @@
+
+#This is "not" wheel of fortune, contains a controller and a main game
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
